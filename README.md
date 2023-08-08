@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilyKcaj.
+- 👋 Hi, I’m @ilyKcaj. I'm an aspiring full-stack developer in highschool.
 - 👀 I’m interested in computer science, mathematics, web design, UI/UX, and much more!
 - 🌱 I’m currently learning how to create interactive and engaging websites with HTML, CSS, and JavaScript!
 - 📫 How to reach me: @jacky.li on discord.
